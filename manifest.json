@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Return Legacy TweetDeck",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "default_locale": "en",
   "description": "__MSG_extDescription__",
   "icons": {
@@ -30,7 +30,7 @@
   "permissions": ["declarativeNetRequest"],
   "browser_specific_settings": {
     "gecko": {
-      "id": "return-legacy-tweetdeck@funame0"
+      "id": "{6aaaa911-ebd5-4a14-9829-385e2fa080fc}"
     }
   }
 }
