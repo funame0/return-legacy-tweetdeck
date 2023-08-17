@@ -30,7 +30,7 @@
   "permissions": ["declarativeNetRequest"],
   "browser_specific_settings": {
     "gecko": {
-      "id": "return-legacy-tweetdeck@funame0"
+      "id": "{6aaaa911-ebd5-4a14-9829-385e2fa080fc}"
     }
   }
 }
