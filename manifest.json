@@ -2,6 +2,8 @@
   "manifest_version": 3,
   "name": "Return Legacy TweetDeck",
   "version": "0.0.0",
+  "default_locale": "en",
+  "description": "__MSG_extDescription__",
   "content_scripts": [
     {
       "matches": ["https://*.twitter.com/*"],
