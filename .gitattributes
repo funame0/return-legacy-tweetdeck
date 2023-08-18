@@ -1,3 +1,4 @@
 .git* export-ignore
+README.md export-ignore
 archive.sh export-ignore
 screenshot.png export-ignore
