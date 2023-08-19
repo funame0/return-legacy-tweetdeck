@@ -1,10 +1,8 @@
 # Return Legacy TweetDeck
 
-**This doesn't work (as of August 18, 2023).**
+~~**Return Legacy TweetDeck** is a browser extension that forces TweetDeck to use the legacy version.~~
 
-**Return Legacy TweetDeck** is a browser extension that forces TweetDeck to use the legacy version.
-
-![screenshot](screenshot.png)
+**Currently using this opens the beta version of TweetDeck instead of the legacy version (even if you're not an X Premium user).**
 
 ## License
 
